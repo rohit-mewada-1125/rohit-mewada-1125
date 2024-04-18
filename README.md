@@ -6,7 +6,7 @@
 
 💞️ I’m looking to collaborate on open-source projects and participate in coding competitions.
 
-📫 You can reach me via email at rohit.mewada@example.com or connect with me on LinkedIn.
+📫 You can reach me via email at rohitrajput43882@gmail.com or connect with me on LinkedIn.
 
 😄 Pronouns: He/Him
 
