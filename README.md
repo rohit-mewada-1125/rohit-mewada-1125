@@ -10,7 +10,7 @@
 
 😄 Pronouns: He/Him
 
-⚡ Fun fact: I enjoy solving puzzles and playing chess in my free time!
+⚡ Fun fact: I enjoy solving DSA problems and listening musics in my free time!
 
 ---
 
