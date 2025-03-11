@@ -1,8 +1,8 @@
 👋 Hi, I’m Rohit Mewada!
 
-👀 I’m interested in software development, artificial intelligence, and cybersecurity.
+👀 I’m interested in Artificial Intelligence, Machine Learning, and cybersecurity.
 
-🌱 I’m currently learning about data science, machine learning algorithms.
+🌱 I’m currently learning about data science, and machine learning algorithms.
 
 💞️ I’m looking to collaborate on open-source projects and participate in coding competitions.
 
