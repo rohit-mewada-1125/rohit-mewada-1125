@@ -13,4 +13,4 @@
 
 ---
 
-I am a passionate engineering student currently in my thirdfinal year at Sagar Institute of Science, Technology, and Research. With a strong foundation in programming and a curiosity to explore emerging technologies, I'm excited to contribute to innovative projects and enhance my skills in the field of computer science.
+I am a passionate engineering student currently in my final year at Sagar Institute of Science, Technology, and Research. With a strong foundation in programming and a curiosity to explore emerging technologies, I'm excited to contribute to innovative projects and enhance my skills in the field of computer science.
